@@ -1,0 +1,8 @@
+{
+  "name": "PREM ACADEMY",
+  "description": "A high-end sports academy management dashboard for athletes, coaches, and administrators, featuring scheduling, balance management, and performance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
